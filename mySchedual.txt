@@ -1,0 +1,17 @@
+my schedual:
+start date ： 11.02
+
+== > 18 days later
+11.20 两门考试，一篇论文
+
+
+
+==> 4 months later
+prepare: XGboost, randomforest, feature engineering...
+2017.03.01 完成一项天池竞赛
+
+
+
+
+==> 8 months later
+2018.07.01 秋招
